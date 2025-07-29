@@ -49,12 +49,13 @@ Through design iterations, CFD analysis, and careful prototyping, we created a c
 
 ## 📸 Sample Visuals
 
-![CAD Model](media/P11 [Final car analysis render].png)
-*A render of the final car body*
+### 🔧 Final Car Render
+![Final Car](media/P11%20%5BFinal%20car%20analysis%20render%5D.png)
+*A render of the final car body created in Fusion 360*
 
-![CFD Streamlines](CFD/Images/P11 [Wake Analysis-2].png)
-*CFD analysis showing smooth airflow around the body*
-
+### 🌬️ Wake Analysis (CFD)
+![Wake CFD](CFD/Images/P11%20%5BWake%20Analysis%5D.png)
+*CFD wake analysis showing airflow and turbulence zones*
 
 ---
 
@@ -78,15 +79,14 @@ Through design iterations, CFD analysis, and careful prototyping, we created a c
 
 ---
 
-## 📂 Folder Structure
-
 Prototype-Noctua/
-├── CAD/ # STL files for all components
-├── CFD/
-│ ├── images/ # Simulation screenshots
-├── docs/ # Full report, presentations, etc.
-├── media/ # Renders used in this README
-└── README.md # You're reading it!
+├── CAD/                        # STL files for all components
+├── CFD/                       
+│   ├── Images/                 # CFD result images (e.g., Wake Analysis)
+├── docs/                      # Project report, design plans, presentation
+├── media/                     # Renders used in README
+│   └── P11 [Final car analysis render].png
+├── README.md                  # Project overview and instructions
 
 ---
 
