@@ -1,6 +1,6 @@
 # 🦉 Prototype Noctua
 
-Prototype Noctua is a miniature race car we designed from scratch as first-year mechanical engineering students. The goal? Build something fast, aerodynamic, lightweight — and learn as much as possible while doing it.
+Prototype Noctua is a miniature F1 model car we designed from scratch as Grade 12 students for STEM Racing (Previously F1 in Schools). The goal? Build something fast, aerodynamic, lightweight — and learn as much as possible while doing it.
 
 Through design iterations, CFD analysis, and careful prototyping, we created a car that was not just regulation-compliant, but exceeded our expectations. This project helped us translate classroom theory into real engineering decisions.
 
@@ -82,11 +82,10 @@ Through design iterations, CFD analysis, and careful prototyping, we created a c
 Prototype-Noctua/
 ├── CAD/                        # STL files for all components
 ├── CFD/                       
-│   ├── Images/                 # CFD result images (e.g., Wake Analysis)
-├── docs/                      # Project report, design plans, presentation
-├── media/                     # Renders used in README
-│   └── P11 [Final car analysis render].png
-├── README.md                  # Project overview and instructions
+│   └── Images/                 # CFD result images (e.g., Wake Analysis)
+├── docs/                       # Project report, design plans, presentation
+├── media/                      # Renders used in README
+└── README.md                   # Project overview and instructions
 
 ---
 
