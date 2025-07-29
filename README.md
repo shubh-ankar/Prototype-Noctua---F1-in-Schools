@@ -79,7 +79,17 @@ Through design iterations, CFD analysis, and careful prototyping, we created a c
 
 ---
 
-<pre> ```plaintext Prototype-Noctua/ ├── CAD/ # STL files for all components ├── CFD/ │ └── Images/ # CFD result images (e.g., Wake Analysis) ├── docs/ # Project report, design plans, presentation ├── media/ # Renders used in README └── README.md # Project overview and instructions ``` </pre>
+## 📁 Folder Structure
+
+```plaintext
+Prototype-Noctua/
+├── CAD/                        # STL files for all components
+├── CFD/                       
+│   └── Images/                 # CFD result images (e.g., Wake Analysis)
+├── docs/                       # Project report, design plans, presentation
+├── media/                      # Renders used in README
+└── README.md                   # Project overview and instructions
+```
 
 ---
 
